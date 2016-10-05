@@ -12,3 +12,6 @@ Functionality:
 Possible Improvements:
   More commenting in code
   Find way to decrease slowdown inherent in highest difficulty AI setting(s)
+
+To play:
+  After compiling, type playWithGUI(#) and hit enter. # is an integer that scales how difficult the AI is. Recommended # is 3 or 4. Performance begins to slow down after 5+
